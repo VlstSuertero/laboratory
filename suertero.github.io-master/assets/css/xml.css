@@ -1,0 +1,59 @@
+Cinema	{background-image:url("http://www.ucboyut.com/uploads/converted/15/05/21/1086041887-recycled_texture_background_by_sandeep_m-d6aeau9-k6r-2048x1152-MM-85.jpg");
+	}
+Poster {
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(13, 179, 187);
+    width: 900px;
+    height: 330px;
+    border: 1px solid #000;
+    box-shadow: 0px 0px 9px 8px rgb(8, 121, 64), inset -4px -3px 8px 0px rgb(4, 3, 101);
+	}
+span {
+    display: block;
+    text-align: center;
+    Color: #68039a;
+    height: 70px;
+    line-height: 70px;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: bold;
+	}
+movie {
+    display: block;
+    width: 135px;
+    height: 200px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid #fbff00;
+    border-radius: 8px;
+    background-color: #02d42f;
+    box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75);
+	}
+name,time,genre{display:block;
+				margin:25px auto;
+				text-align:center;
+				}
+name {
+    width: 120px;
+    color: #b91515;
+    background-color: #eedc00;
+    border: 1px solid #EE4000;
+    border-radius: 3px;
+    text-transform: uppercase;
+	}
+
+name{width:120px; 
+	  color:#fff;
+	  background-color:#EE4000;
+	  border:1px solid #EE4000;
+	  border-radius:3px;
+	 
+	  text-transform:uppercase;}
+time{    font-size: 20px;
+    color: #290077;
+    font-weight: bold;
+	}
+genre { color: #000000;
+    	font-size: 15px;
+	}

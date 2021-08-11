@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="../css/xml.css"?>
+
+<Cinema> 
+	<Poster> 
+	
+	<span> TOP-6 любимых фильмов автора</span>
+		<movie>
+			<name class='height' > Васаби(Фран.Яп.) </name>
+			<time> 2001</time>
+			<genre>драма комедия криминал </genre>
+		</movie>
+		<movie>
+			<name class='height'> Достучаться до небес(Герм.)  </name>
+			<time > 1997 </time>
+			<genre>драма комедия криминал</genre>
+		</movie>
+		<movie>
+			<name> Бесславные ублюдки(США Герм.)  </name>
+			<time> 2009 </time>
+			<genre> боевик драма комедия военный  </genre>
+		</movie>
+		<movie>
+			<name> Амели(Фран.) </name>
+			<time> 2001 </time>
+			<genre> мелодрама комедия </genre>
+		</movie>
+		<movie>
+			<name> Призрак в доспехах(Яп.)  </name>
+			<time> 	1995 </time>
+			<genre> аниме мультфильм фантастика боевик триллер  </genre>
+		</movie>
+		<movie>
+			<name> Стражи галактики 2(США) </name>
+			<time> 2017 </time>
+			<genre> фантастика боевик приключения  </genre>
+		</movie>
+
+	</Poster>
+</Cinema>
